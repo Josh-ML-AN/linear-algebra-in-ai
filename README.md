@@ -1,8 +1,8 @@
 # Linear Algebra in AI: MovieLens Recommender Walkthrough
 
-This repository contains the companion notebook for Part 2 of a two-part series on linear algebra in AI.
+This repository contains the companion notebook for Part 2 (with references to Part 1) of a two-part series on linear algebra in AI.
 
-The notebook builds a lightweight recommendation model using the MovieLens 32M dataset. The goal is not to create a production-grade recommender system. The goal is to make the core linear algebra ideas behind modern AI systems easier to inspect.
+The notebook builds a lightweight recommendation model using the MovieLens 32M dataset. The goal is to make the core linear algebra ideas behind modern AI systems easier to inspect.
 
 The walkthrough covers:
 
