@@ -1,4 +1,4 @@
-# Linear Algebra in AI: MovieLens Recommender Walkthrough
+# Linear Algebra in AI: Recommender Walkthrough
 
 This repository contains the companion notebook for Part 2 (with references to Part 1) of a two-part series on linear algebra in AI.
 
